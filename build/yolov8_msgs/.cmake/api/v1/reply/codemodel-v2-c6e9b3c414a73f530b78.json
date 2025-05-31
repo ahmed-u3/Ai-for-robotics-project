@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-7873231b2f2c06db15e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "yolov8_msgs__py",
+					"jsonFile" : "directory-yolov8_msgs__py-d121c9807ef5723fc585.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_msgs/yolov8_msgs__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "yolov8_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_yolov8_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_yolov8_msgs_egg-d6598d2c5f7d558c01df.json",
+					"name" : "ament_cmake_python_build_yolov8_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_yolov8_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_yolov8_msgs-f9a9a7ca6b55419294c8.json",
+					"name" : "ament_cmake_python_copy_yolov8_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f7e097222239f3440605.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs-0316833ccf8a46ff87bf.json",
+					"name" : "yolov8_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__cpp-31a70ca3c04f66d7ac23.json",
+					"name" : "yolov8_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "yolov8_msgs__py::@28283e549f6cf85feae6",
+					"jsonFile" : "target-yolov8_msgs__py-7b147dea3eba9ec1089b.json",
+					"name" : "yolov8_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_generator_c-3c282b805cda7b50dba3.json",
+					"name" : "yolov8_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_generator_py-192a7c14ef5fe13da0f7.json",
+					"name" : "yolov8_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_generator_type_description-8c0f0f63e2efa09d3752.json",
+					"name" : "yolov8_msgs__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_typesupport_c-3b6dfce3193577f0acf7.json",
+					"name" : "yolov8_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_typesupport_cpp-c80e0964eb6dc3c1dddb.json",
+					"name" : "yolov8_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_typesupport_fastrtps_c-0195ecbd99a921fa1031.json",
+					"name" : "yolov8_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_typesupport_fastrtps_cpp-00f6c0016ce15f643144.json",
+					"name" : "yolov8_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_typesupport_introspection_c-63d10c1bf249c1f454ac.json",
+					"name" : "yolov8_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs__rosidl_typesupport_introspection_cpp-9a835a472c5b940e1765.json",
+					"name" : "yolov8_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs_s__rosidl_typesupport_c-dfd1ac834969651f1443.json",
+					"name" : "yolov8_msgs_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs_s__rosidl_typesupport_fastrtps_c-16c7657ab260f536ad9a.json",
+					"name" : "yolov8_msgs_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs_s__rosidl_typesupport_introspection_c-719ade3314bffb312347.json",
+					"name" : "yolov8_msgs_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov8_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov8_msgs_uninstall-6a02e1f3ce70a27d81a3.json",
+					"name" : "yolov8_msgs_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_msgs",
+		"source" : "/home/u3/college/AI_For_robotics/moveit2_obb/src/yolov8_obb_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

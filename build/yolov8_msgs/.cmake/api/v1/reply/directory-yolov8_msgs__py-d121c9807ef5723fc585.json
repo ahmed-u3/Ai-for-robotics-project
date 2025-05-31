@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "yolov8_msgs__py",
+		"source" : "/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_msgs/yolov8_msgs__py"
+	}
+}

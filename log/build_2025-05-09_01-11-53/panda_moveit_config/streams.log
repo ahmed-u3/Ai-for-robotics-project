@@ -1,0 +1,107 @@
+[0.062s] Invoking command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/u3/college/AI_For_robotics/moveit2_obb/src/panda_moveit_config -DCMAKE_INSTALL_PREFIX=/home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config
+[1.692s] -- The C compiler identification is GNU 13.3.0
+[2.484s] -- The CXX compiler identification is GNU 13.3.0
+[2.580s] -- Detecting C compiler ABI info
+[3.007s] -- Detecting C compiler ABI info - done
+[3.016s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.016s] -- Detecting C compile features
+[3.016s] -- Detecting C compile features - done
+[3.026s] -- Detecting CXX compiler ABI info
+[3.137s] -- Detecting CXX compiler ABI info - done
+[3.146s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.146s] -- Detecting CXX compile features
+[3.147s] -- Detecting CXX compile features - done
+[3.367s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.607s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[4.096s] -- Found rclcpp: 28.1.9 (/opt/ros/jazzy/share/rclcpp/cmake)
+[4.663s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[4.837s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[5.294s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.368s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.773s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[5.830s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[6.512s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[6.547s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[6.573s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.862s] -- Configuring done (6.2s)
+[6.873s] -- Generating done (0.0s)
+[6.879s] -- Build files have been written to: /home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config
+[6.896s] Invoked command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/u3/college/AI_For_robotics/moveit2_obb/src/panda_moveit_config -DCMAKE_INSTALL_PREFIX=/home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config
+[6.898s] Invoking command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config -- -j16 -l16
+[6.959s] Invoked command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config -- -j16 -l16
+[6.961s] Invoking command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config
+[6.970s] -- Install configuration: ""
+[6.970s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/lib/panda_moveit_config/arm_control_from_UI.py
+[6.971s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/launch
+[6.971s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/launch/moveit_gazebo_obb.py
+[6.971s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/launch/moveit.rviz
+[6.972s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/launch/moveit_empty.rviz
+[6.972s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/launch/moveit_rviz.launch.py
+[6.972s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config
+[6.972s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/chomp_planning.yaml
+[6.973s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda_hand.gazebo_ros2_control.xacro
+[6.973s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/trajopt_planning.yaml
+[6.973s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/moveit_controllers.yaml
+[6.973s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/ompl_planning.yaml
+[6.974s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda_arm.srdf.xacro
+[6.974s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/motion_planning.rviz
+[6.974s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/ros2_controllers.yaml
+[6.974s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/sensors_kinect_pointcloud.yaml
+[6.974s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda_arm.xacro
+[6.975s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/kinematics.yaml
+[6.975s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/sensors_kinect_depthmap.yaml
+[6.975s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/initial_positions.yaml
+[6.976s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda_arm_hand.srdf.xacro
+[6.976s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda.srdf
+[6.976s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/hand.xacro
+[6.976s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/lerp_planning.yaml
+[6.976s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/controller_setting.yaml
+[6.977s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/gripper_moveit_controllers.yaml
+[6.977s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda.urdf.xacro
+[6.977s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/joint_limits.yaml
+[6.977s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/panda.gazebo_ros2_control.xacro
+[6.978s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/config/pilz_cartesian_limits.yaml
+[6.978s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds
+[6.978s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/table
+[6.978s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/table/model-1_2.sdf
+[6.978s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/table/model.sdf
+[6.979s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/table/model.config
+[6.979s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/table/model-1_4.sdf
+[6.979s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/table/model-1_3.sdf
+[6.979s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/arm_on_the_table.sdf
+[6.979s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt
+[6.980s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt/meshes
+[6.980s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt/meshes/bolt.stl
+[6.980s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt/meshes/bolt.dae
+[6.980s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt/materials
+[6.980s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt/model.sdf
+[6.981s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/bolt/model.config
+[6.981s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/sun
+[6.981s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/sun/model-1_2.sdf
+[6.981s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/sun/model.sdf
+[6.982s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/sun/model.config
+[6.982s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/sun/model-1_4.sdf
+[6.982s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/sun/model-1_3.sdf
+[6.982s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/ground_plane
+[6.982s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/ground_plane/model-1_2.sdf
+[6.983s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/ground_plane/model.sdf
+[6.983s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/ground_plane/model.config
+[6.983s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/ground_plane/model-1_4.sdf
+[6.983s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/worlds/ground_plane/model-1_3.sdf
+[6.983s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/.setup_assistant
+[6.984s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/ament_index/resource_index/package_run_dependencies/panda_moveit_config
+[6.984s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/ament_index/resource_index/parent_prefix_path/panda_moveit_config
+[6.984s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/environment/ament_prefix_path.sh
+[6.984s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/environment/ament_prefix_path.dsv
+[6.985s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/environment/path.sh
+[6.985s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/environment/path.dsv
+[6.985s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/local_setup.bash
+[6.985s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/local_setup.sh
+[6.985s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/local_setup.zsh
+[6.986s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/local_setup.dsv
+[6.986s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/package.dsv
+[6.986s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/ament_index/resource_index/packages/panda_moveit_config
+[6.986s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/cmake/panda_moveit_configConfig.cmake
+[6.987s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/cmake/panda_moveit_configConfig-version.cmake
+[6.987s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/panda_moveit_config/share/panda_moveit_config/package.xml
+[6.988s] Invoked command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/u3/college/AI_For_robotics/moveit2_obb/build/panda_moveit_config

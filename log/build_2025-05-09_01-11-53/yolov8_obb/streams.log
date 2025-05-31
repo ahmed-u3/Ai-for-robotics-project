@@ -1,0 +1,54 @@
+[0.054s] Invoking command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/u3/college/AI_For_robotics/moveit2_obb/src/yolov8_obb -DCMAKE_INSTALL_PREFIX=/home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb
+[1.648s] -- The C compiler identification is GNU 13.3.0
+[2.426s] -- The CXX compiler identification is GNU 13.3.0
+[2.521s] -- Detecting C compiler ABI info
+[2.922s] -- Detecting C compiler ABI info - done
+[2.931s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.931s] -- Detecting C compile features
+[2.931s] -- Detecting C compile features - done
+[2.942s] -- Detecting CXX compiler ABI info
+[3.079s] -- Detecting CXX compiler ABI info - done
+[3.089s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.089s] -- Detecting CXX compile features
+[3.089s] -- Detecting CXX compile features - done
+[3.309s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.550s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.987s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[4.494s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.495s] -- Configured 'flake8' exclude dirs and/or files: 
+[4.498s] -- Added test 'lint_cmake' to check CMake code style
+[4.500s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.527s] -- Added test 'xmllint' to check XML markup files
+[4.536s] -- Configuring done (3.9s)
+[4.546s] -- Generating done (0.0s)
+[4.560s] -- Build files have been written to: /home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb
+[4.571s] Invoked command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/u3/college/AI_For_robotics/moveit2_obb/src/yolov8_obb -DCMAKE_INSTALL_PREFIX=/home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb
+[4.575s] Invoking command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb -- -j16 -l16
+[4.636s] Invoked command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb -- -j16 -l16
+[4.647s] Invoking command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb
+[4.656s] -- Install configuration: ""
+[4.656s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb//scripts
+[4.656s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb//scripts/yolov8_obb_subscriber.py
+[4.656s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb//scripts/yolov8_obb_publisher.py
+[4.656s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb//scripts/best.pt
+[4.662s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb//launch
+[4.663s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb//launch/yolov8_obb.launch.py
+[4.663s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/lib/yolov8_obb/yolov8_obb_publisher.py
+[4.663s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/lib/yolov8_obb/yolov8_obb_subscriber.py
+[4.663s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/lib/yolov8_obb/yolov8_obb.launch.py
+[4.664s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/ament_index/resource_index/package_run_dependencies/yolov8_obb
+[4.664s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/ament_index/resource_index/parent_prefix_path/yolov8_obb
+[4.664s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/environment/ament_prefix_path.sh
+[4.664s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/environment/ament_prefix_path.dsv
+[4.665s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/environment/path.sh
+[4.665s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/environment/path.dsv
+[4.665s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/local_setup.bash
+[4.665s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/local_setup.sh
+[4.666s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/local_setup.zsh
+[4.666s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/local_setup.dsv
+[4.666s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/package.dsv
+[4.666s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/ament_index/resource_index/packages/yolov8_obb
+[4.666s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/cmake/yolov8_obbConfig.cmake
+[4.667s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/cmake/yolov8_obbConfig-version.cmake
+[4.667s] -- Installing: /home/u3/college/AI_For_robotics/moveit2_obb/install/yolov8_obb/share/yolov8_obb/package.xml
+[4.668s] Invoked command in '/home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/u3/college/AI_For_robotics/moveit2_obb/build/yolov8_obb

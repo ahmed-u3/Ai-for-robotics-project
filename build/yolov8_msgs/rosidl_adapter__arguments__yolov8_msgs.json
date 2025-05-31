@@ -1,0 +1,7 @@
+{
+  "package_name": "yolov8_msgs",
+  "non_idl_tuples": [
+    "/home/u3/college/AI_For_robotics/moveit2_obb/src/yolov8_obb_msgs:msg/InferenceResult.msg",
+    "/home/u3/college/AI_For_robotics/moveit2_obb/src/yolov8_obb_msgs:msg/Yolov8Inference.msg"
+  ]
+}
