@@ -9,7 +9,7 @@ This ROS 2-based project enables object-based grasping using a Panda robot in a 
 - **YOLOv8**-based object detection using bounding boxes (OBB)
 - **Python UI** for selecting target objects to grasp
 
-## 🛠️ Technologies
+## Technologies
 
 - ROS 2 (Foxy/Humble)
 - MoveIt 2
@@ -17,7 +17,7 @@ This ROS 2-based project enables object-based grasping using a Panda robot in a 
 - YOLOv8
 - Python 3
 
-## 🧪 How to Run
+## How to Run
 
 ```bash
 # Terminal 1: Launch Gazebo with MoveIt2
